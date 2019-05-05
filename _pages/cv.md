@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * **Currently:** PhD Student, Computer Engineering (Arizona State University)
 * 2017-2018: M.S. Degree, Computer Engineering (UFRGS, Brazil)
 * 2013-2017: B.S. Degree, Computer Engineering (UFRGS, Brazil)
 
-Work Experience
-======
+## Work Experience
+
 * **Currently:** PhD Student / Research Assistant @ ASU
   * Working on the development of a full custom chip, which integrates multiple different dedicated hardware accelerators, executing simultaneously. This is a large scale project, involving a lot of researchers, but I am particularly assigned to tasks like RTL generation and communication channels/protocols. In addition to that, I am also working on adding features to an existing rad-hard processor’s Verilog, as well as verifying its functionality using different hierarchical granularities.
 
