@@ -5,6 +5,4 @@ author_profile: true
 
 ---
 
-======
-
 * flibano@asu.edu
