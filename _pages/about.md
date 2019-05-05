@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Fabiano Libano
+<span style="color:white">*Fabiano Libano*</span>
 ======
 Born in Madrid, Spain 🇪🇸.<br />
 Raised in Porto Alegre, Brazil 🇧🇷.<br />
