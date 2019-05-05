@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Fabiano Libano"
   avatar           : "profile.png"
-  bio              : "Computer Engineer. PhD Student at Arizona State University. Research interests include Artificial Intelligence, Reliability & Space Exploration"
+  bio              : "Computer Engineer.\nPhD Student at Arizona State University.\n\nResearch interests include Artificial Intelligence, Reliability & Space Exploration"
   location         : "Phoenix, Arizona"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lllibano"
   google_plus      :
   keybase          :
-  instagram        : "http://instagram.com/lllibano"
+  instagram        : "lllibano"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
