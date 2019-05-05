@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="color:white">## Education</span>
+## <span style="color:white">Education</span>
 
 * **Currently:** PhD Student, Computer Engineering (Arizona State University)
 * 2017-2018: M.S. Degree, Computer Engineering (UFRGS, Brazil)
 * 2013-2017: B.S. Degree, Computer Engineering (UFRGS, Brazil)
 
-<span style="color:white">## Work Experience</span>
+## <span style="color:white">Work Experience</span>
 
 * **Currently:** PhD Student / Research Assistant @ ASU
   * Working on the development of a full custom chip, which integrates multiple different dedicated hardware accelerators, executing simultaneously. This is a large scale project, involving a lot of researchers, but I am particularly assigned to tasks like RTL generation and communication channels/protocols. In addition to that, I am also working on adding features to an existing rad-hard processor’s Verilog, as well as verifying its functionality using different hierarchical granularities.
@@ -26,7 +26,7 @@ redirect_from:
 * 2015-2017: B.S. Student / Research Assistant @ UFRGS
   * As an undergraduate student, the focus of my research was to evaluate the reliability of simple Artificial Neural Networks, used for Pattern Recognition and Linear Regression, implemented in FPGA. The obtained results were presented in IEEE conferences.
   
-<span style="color:white">## Languages</span>
+## <span style="color:white">Languages</span>
 
 * Portuguese (Mother Language)
 * English (Reading, Writing, Speaking: Fluent)
