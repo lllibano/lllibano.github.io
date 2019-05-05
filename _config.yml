@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Fabiano Libano"
   avatar           : "profile.png"
-  bio              : "Computer Engineer.     PhD Student at Arizona State University.     -Artificial Intelligence     -Reliability      -Space Exploration"
+  bio              : "Computer Engineer.
+                      PhD Student at Arizona State University.
+                      -Artificial Intelligence
+                      -Reliability"
   location         : "Phoenix, Arizona"
   employer         :
   pubmed           : 
