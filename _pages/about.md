@@ -10,13 +10,13 @@ redirect_from:
 
 Fabiano Libano
 ======
-I have received my BS degree in Computer Engineering in 2017 from UFRGS, Brazil.<br />
-I have received my MS degree in Computer Engineering in 2018 from UFRGS, Brazil.<br />
-I am currently pursuing my PhD degree in Computer Engineering at Arizona State University.<br />
+Currently: PhD Student, Computer Engineering (Arizona State University)<br />
+2017-2018: MS Degree, Computer Engineering (UFRGS, Brazil)<br />
+2013-2017: BS Degree, Computer Engineering (UFRGS, Brazil)<br />
  <br />
 Research Interests:<br />
+-Reliability & Fault-Tolerance<br />
 -Artificial Intelligence<br />
--Reliability & Safety-Critical Applications<br />
+-Hardware Description Languages & Digital Systems<br />
 -Space Exploration<br />
--Finance<br />
 -Bioinformatics<br />
