@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fabiano Libano"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-About Fabiano
+Fabiano Libano
 ======
-I have received my BS degree in Computer Engineering in 2017 from UFRGS, Brazil.
-I have received mt MS degree in Computer Engineering in 2018 from UFRGS, Brazil.
-I am currently pursuing my PhD in Computer Engineering at Arizona State University.
-
-Research Interests:
--Artificial Intelligence
--Reliability & Safety-Critical Applications
--Space Exploration
--Finance
--Bioinformatics
+I have received my BS degree in Computer Engineering in 2017 from UFRGS, Brazil.<br />
+I have received mt MS degree in Computer Engineering in 2018 from UFRGS, Brazil.<br />
+I am currently pursuing my PhD in Computer Engineering at Arizona State University.<br />
+ <br />
+Research Interests:<br />
+-Artificial Intelligence<br />
+-Reliability & Safety-Critical Applications<br />
+-Space Exploration<br />
+-Finance<br />
+-Bioinformatics<br />
