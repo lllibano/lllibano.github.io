@@ -2,8 +2,7 @@
 permalink: /contact/
 title: "Contact"
 author_profile: true
-redirect_from: 
-  - /contact.html
+
 ---
 
 ## Locations of key files/directories
