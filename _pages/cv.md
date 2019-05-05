@@ -26,8 +26,8 @@ redirect_from:
 * 2015-2017: B.S. Student / Research Assistant @ UFRGS
   * As an undergraduate student, the focus of my research was to evaluate the reliability of simple Artificial Neural Networks, used for Pattern Recognition and Linear Regression, implemented in FPGA. The obtained results were presented in IEEE conferences.
   
-Languages
-======
+## Languages
+
 * Portuguese (Mother Language)
 * English (Reading, Writing, Speaking: Fluent)
 * Spanish (Reading, Writing, Speaking: Fluent)
