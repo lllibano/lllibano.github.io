@@ -10,6 +10,7 @@ redirect_from:
 
 Fabiano Libano
 ======
+**Education / Work:**
 * **Currently:** PhD Student, Computer Engineering (Arizona State University)
 * 2017-2018: M.S. Degree, Computer Engineering (UFRGS, Brazil)
 * 2013-2017: B.S. Degree, Computer Engineering (UFRGS, Brazil)
