@@ -10,10 +10,8 @@ redirect_from:
 
 Fabiano Libano
 ======
-**Education / Work:**
-* **Currently:** PhD Student, Computer Engineering (Arizona State University)
-* 2017-2018: M.S. Degree, Computer Engineering (UFRGS, Brazil)
-* 2013-2017: B.S. Degree, Computer Engineering (UFRGS, Brazil)
+I was born in Madrid, Spain. I was raised in Porto Alegre, Brazil. I am now living in Phoenix, USA.<br />
+I am currently pursuing my PhD degree in Computer Engineering at Arizona State University. I have previously obtained both my M.S. and B.S. degrees in Computer Engineering at the Federal University of Rio Grande do Sul (UFRGS), Brazil.
 
 **Research Interests:**
 * Reliability & Fault-Tolerance
