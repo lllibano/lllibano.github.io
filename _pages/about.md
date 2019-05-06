@@ -20,6 +20,6 @@ I have obtained my MS and BS degrees in Computer Engineering at UFRGS.
 <span style="color:white">**Research Interests:**</span>
 * Fault-Tolerance & Reliability
 * Artificial Intelligence & Machine Learning
-* Hardware Description Languages & Digital Systems
+* HDLs & Digital Systems Design
 * Space Exploration
 * Bioinformatics
