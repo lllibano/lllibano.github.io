@@ -185,7 +185,7 @@
     text-decoration: none;
 
     &:hover {
-      color: #ffffff;
+      color: $masthead-link-color-hover;
     }
   }
 
@@ -210,7 +210,6 @@
 
       &:first-child {
         font-weight: bold;
-        color: #ffffff
 
         a {
           margin-left: 0;
