@@ -31,3 +31,5 @@ redirect_from:
 * Portuguese (Mother Language)
 * English (Reading, Writing, Speaking: Fluent)
 * Spanish (Reading, Writing, Speaking: Fluent)
+
+[Download Full CV](http://lllibano.github.io/files/cv.pdf)
