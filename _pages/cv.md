@@ -32,4 +32,5 @@ redirect_from:
 * English (Reading, Writing, Speaking: Fluent)
 * Spanish (Reading, Writing, Speaking: Fluent)
 
+ <br />
 [Download Full CV](http://lllibano.github.io/files/cv.pdf)
