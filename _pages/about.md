@@ -15,7 +15,7 @@ redirect_from:
 🇺🇸 Living in Phoenix, USA.<br />
  <br />
 I am currently pursuing my PhD degree in Computer Engineering at ASU.<br />
-I have obtained both my MS and BS degrees in Computer Engineering at UFRGS, Brazil.
+I have obtained my MS and BS degrees in Computer Engineering at UFRGS, Brazil.
 
 <span style="color:white">**Research Interests:**</span>
 * Reliability & Fault-Tolerance
