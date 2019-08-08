@@ -18,8 +18,8 @@ I am currently pursuing my PhD degree in Computer Engineering at ASU.<br />
 I have obtained my MS and BS degrees in Computer Engineering at UFRGS.
 
 <span style="color:white">**Research Interests:**</span>
-* Fault-Tolerance & Reliability
+* Fault-Tolerance, Reliability & Radiation Effects
 * Artificial Intelligence & Machine Learning
-* HDLs & Digital Systems Design
+* Digital Systems Design & FPGAs
 * Space Exploration
 * Bioinformatics
