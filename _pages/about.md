@@ -12,14 +12,15 @@ redirect_from:
 ======
 🇪🇸 Born in Madrid, Spain.<br />
 🇧🇷 Raised in Porto Alegre, Brazil.<br />
-🇺🇸 Living in Phoenix, USA.<br />
+🇺🇸 Living in Portland, USA.<br />
  <br />
-I am currently pursuing my PhD degree in Computer Engineering at ASU.<br />
+I am currently working as a Reliability Engineer at Intel. 
+I have obtained my PhD degree in Computer Engineering at ASU.<br />
 I have obtained my MS and BS degrees in Computer Engineering at UFRGS.
 
 <span style="color:white">**Research Interests:**</span>
 * Fault-Tolerance, Reliability & Radiation Effects
+* Computer Architecture, Digital Systems & FPGAs
 * Artificial Intelligence & Machine Learning
-* Digital Systems Design & FPGAs
 * Space Exploration
 * Bioinformatics
