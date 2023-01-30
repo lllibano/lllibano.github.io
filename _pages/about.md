@@ -14,7 +14,7 @@ redirect_from:
 🇧🇷 Raised in Porto Alegre, Brazil.<br />
 🇺🇸 Living in Portland, USA.<br />
  <br />
-I am currently working as a Reliability Engineer at Intel. 
+I am currently working as a Reliability Engineer at Intel.<br />
 I have obtained my PhD degree in Computer Engineering at ASU.<br />
 I have obtained my MS and BS degrees in Computer Engineering at UFRGS.
 
