@@ -23,4 +23,4 @@ I have obtained my MS and BS degrees in Computer Engineering at [UFRGS](https://
 * Computer Architecture, Digital Systems & FPGAs
 * Artificial Intelligence & Machine Learning
 * Space Exploration
-* Bioinformatics
+* Finance
